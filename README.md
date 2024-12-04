@@ -1,5 +1,6 @@
 # nas_smb_mounter
 Scripts for mount nas smb folder in linux system.
+[中文版](README_zh-tw.md)
 
 # Automatically Mount NAS SMB Folders at Boot on Linux
 This tutorial is based on Debian systems.
