@@ -31,7 +31,7 @@ NAS_SMB_3=NAS的第3個SMB資料夾名稱
 username=NAS的使用者名稱
 password=NAS的使用者密碼
 ```
-![image](./imgs/config-2.png)\
+![image](./imgs/config-2.png)
 ## 測試掛載
 ```sh
 cd nas_smb_mounter

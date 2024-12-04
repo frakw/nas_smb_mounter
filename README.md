@@ -33,7 +33,7 @@ Edit `.smbcredentials` to store the NAS account credentials:
 username=NAS_username
 password=NAS_password
 ```
-![image](./imgs/config-2.png)\
+![image](./imgs/config-2.png)
 ## Test the Mounting Process
 ```console
 cd nas_smb_mounter
