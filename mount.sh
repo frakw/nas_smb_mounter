@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Change to the directory where the script is located
+cd "$(dirname "$0")"
+
 source $(pwd)/nas.conf
 
 # 獲取當前用戶的 UID 和 GID
